@@ -1,0 +1,26 @@
+[
+  {
+    "difficutyLevelMobs": 1,
+    "coins": 0.2,
+    "teleports": 3,
+    "timeToLose": 360, //seconds
+    "mobsSpeed": 500, //чем больше значение, тем медленее противники
+    "mobs": 3
+  },
+  {
+    "difficutyLevelMobs": 2,
+    "coins": 0.1,
+    "teleports": 2,
+    "timeToLose": 180, //seconds
+    "mobsSpeed": 400, //чем больше значение, тем медленее противники
+    "mobs": 4
+  },
+  {
+    "difficutyLevelMobs": 3,
+    "coins": 0.08,
+    "teleports": 1,
+    "timeToLose": 180, //seconds
+    "mobsSpeed": 300, //чем больше значение, тем медленее противники
+    "mobs": 6
+  }
+]
